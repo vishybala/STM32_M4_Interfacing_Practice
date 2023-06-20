@@ -1,0 +1,5 @@
+../Src/usart_send.c:12:6:delay1	16	static
+../Src/usart_send.c:29:6:USART_GPIOInit	24	static
+../Src/usart_send.c:49:6:USARTx_Init	8	static
+../Src/usart_send.c:61:6:GPIO_ButtonInit	24	static
+../Src/usart_send.c:74:5:main	8	static
